@@ -1,4 +1,4 @@
-# Linear Regression model
+# ML/DL trainings materials
 
 Hi, the purpose of this repo is to save the material that I will prepare for trainings about ML/DL algorithms or any topic regarding with those areas of study and implies programming.
 Feel free to check the material! :)
