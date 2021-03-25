@@ -1,6 +1,7 @@
 # Linear Regression model
 
-Hi, this is a notebook based on my Linear Regression trainings, is something very simple but works as an starting point for anyone that want to understand the process under a simple linear regression approach, with a daily example as the Pizza's restaurant is. :)
+Hi, the purpose of this repo is to save the material that I will prepare for trainings about ML/DL algorithms or any topic regarding with those areas of study and implies programming.
+Feel free to check the material! :)
 
 ## Installation
 
